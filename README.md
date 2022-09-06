@@ -13,9 +13,9 @@ $ cd catkin_ws/src
 
 ```sh
 #Descrição do robô (URDF).
-git clone https://github.com/luschardt/agv_description.git
+git clone https://github.com/maiafacens/agv_description.git
 #Pacote AGV/SLAM
-git clone https://github.com/luschardt/agv_navigation.git
+git clone https://github.com/maiafacens/agv_navigation.git
 ```
 
 - **Compilar workspace.**
